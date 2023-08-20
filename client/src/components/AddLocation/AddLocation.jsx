@@ -35,7 +35,7 @@ const AddLocation = ({ propertyDetails, setPropertyDetails, nextStep }) => {
   return (
     <form
     onSubmit={(e)=>{
-        e.preventDefault();
+        e.preventDefault( );
         handleSubmit()
     }}
     >
