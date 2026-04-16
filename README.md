@@ -166,7 +166,7 @@ App.css
 ## Clone Repository
 
 ```bash
-git clone https://github.com/your-username/real-estate-booking.git
+git clone https://github.com/Ak-Amey/Homyz.git
 cd real-estate-booking
 ```
 
@@ -228,7 +228,7 @@ npm start
 
 Your Name
 
-GitHub: https://github.com/your-username
+GitHub: https://github.com/Ak-Amey
 
 ---
 
